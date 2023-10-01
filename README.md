@@ -13,7 +13,7 @@ This project is developed in several stages:
 
 ## Documentation
 
-[Semantic Analyzer Documentation (Only declarations)](https://linktodocumentation)
+[Lexical Analyzer Doc]([https://linktodocumentation](https://github.com/ramiro-cejas/AnalizadorLexico2023/blob/main/Informe%20CeI%20Analizador%20Lexico.pdf)https://github.com/ramiro-cejas/AnalizadorLexico2023/blob/main/Informe%20CeI%20Analizador%20Lexico.pdf)
 
 ## Authors
 
